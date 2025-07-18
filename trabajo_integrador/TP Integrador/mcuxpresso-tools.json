@@ -1,0 +1,15 @@
+{
+  "version": "25.3",
+  "toolchainPath": "C:/Users/nacho/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi",
+  "linkedProjects": [],
+  "trustZoneType": "none",
+  "multicoreType": "none",
+  "projectType": "sdk-freestanding",
+  "sdk": {
+    "version": "25.06.00",
+    "path": "c:\\GitHub\\curso-lse-UTN\\workspace_lpc845\\sdks\\Copachon_sdk",
+    "boardId": "lpc845breakout",
+    "deviceId": "LPC845",
+    "coreId": "core0_LPC845"
+  }
+}
