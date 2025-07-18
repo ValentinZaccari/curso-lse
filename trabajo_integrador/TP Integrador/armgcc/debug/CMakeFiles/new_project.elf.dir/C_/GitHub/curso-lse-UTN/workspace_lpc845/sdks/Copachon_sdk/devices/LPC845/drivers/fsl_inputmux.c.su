@@ -1,0 +1,5 @@
+C:/GitHub/curso-lse-UTN/workspace_lpc845/sdks/Copachon_sdk/devices/LPC845/drivers/fsl_clock.h:558:20:CLOCK_EnableClock	16	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/sdks/Copachon_sdk/devices/LPC845/drivers/fsl_clock.h:569:20:CLOCK_DisableClock	16	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/sdks/Copachon_sdk/devices/LPC845/drivers/fsl_inputmux.c:98:6:INPUTMUX_Init	16	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/sdks/Copachon_sdk/devices/LPC845/drivers/fsl_inputmux.c:133:6:INPUTMUX_AttachSignal	32	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/sdks/Copachon_sdk/devices/LPC845/drivers/fsl_inputmux.c:202:6:INPUTMUX_Deinit	16	static

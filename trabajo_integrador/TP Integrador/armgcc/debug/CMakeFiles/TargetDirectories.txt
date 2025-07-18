@@ -1,0 +1,3 @@
+C:/GitHub/curso-lse-UTN/workspace_lpc845/Copachon/armgcc/debug/CMakeFiles/new_project.elf.dir
+C:/GitHub/curso-lse-UTN/workspace_lpc845/Copachon/armgcc/debug/CMakeFiles/edit_cache.dir
+C:/GitHub/curso-lse-UTN/workspace_lpc845/Copachon/armgcc/debug/CMakeFiles/rebuild_cache.dir

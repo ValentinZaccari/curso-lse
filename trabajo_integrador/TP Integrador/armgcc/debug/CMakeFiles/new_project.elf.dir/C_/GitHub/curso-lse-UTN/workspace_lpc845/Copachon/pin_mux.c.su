@@ -1,0 +1,10 @@
+C:/GitHub/curso-lse-UTN/workspace_lpc845/sdks/Copachon_sdk/devices/LPC845/drivers/fsl_clock.h:558:20:CLOCK_EnableClock	16	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/sdks/Copachon_sdk/devices/LPC845/drivers/fsl_clock.h:569:20:CLOCK_DisableClock	16	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/sdks/Copachon_sdk/devices/LPC845/drivers/fsl_iocon.h:102:22:IOCON_PinMuxSet	24	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/Copachon/pin_mux.c:39:6:BOARD_InitBootPins	8	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/Copachon/pin_mux.c:66:6:BOARD_InitPins	8	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/Copachon/pin_mux.c:93:6:BOARD_InitLEDsPins	32	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/Copachon/pin_mux.c:188:6:BOARD_InitDEBUG_UARTPins	16	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/Copachon/pin_mux.c:258:6:BOARD_InitSWD_DEBUGPins	24	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/Copachon/pin_mux.c:342:6:BOARD_InitBUTTONsPins	16	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/Copachon/pin_mux.c:400:6:BOARD_InitCAPTPins	24	static

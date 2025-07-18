@@ -1,0 +1,10 @@
+C:/GitHub/curso-lse-UTN/workspace_lpc845/sdks/Copachon_sdk/CMSIS/Core/Include/core_cm0plus.h:757:22:__NVIC_EnableIRQ	16	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/sdks/Copachon_sdk/CMSIS/Core/Include/core_cm0plus.h:795:22:__NVIC_DisableIRQ	16	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/sdks/Copachon_sdk/devices/LPC845/drivers/fsl_common_arm.h:672:24:EnableIRQ	24	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/sdks/Copachon_sdk/devices/LPC845/drivers/fsl_common_arm.h:722:24:DisableIRQ	24	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/sdks/Copachon_sdk/devices/LPC845/drivers/fsl_power.c:25:6:POWER_EnterSleep	24	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/sdks/Copachon_sdk/devices/LPC845/drivers/fsl_power.c:50:6:POWER_EnterDeepSleep	32	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/sdks/Copachon_sdk/devices/LPC845/drivers/fsl_power.c:81:6:POWER_EnterPowerDown	32	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/sdks/Copachon_sdk/devices/LPC845/drivers/fsl_power.c:111:6:POWER_EnterDeepPowerDownMode	24	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/sdks/Copachon_sdk/devices/LPC845/drivers/fsl_power.c:132:6:EnableDeepSleepIRQ	24	static
+C:/GitHub/curso-lse-UTN/workspace_lpc845/sdks/Copachon_sdk/devices/LPC845/drivers/fsl_power.c:150:6:DisableDeepSleepIRQ	24	static
